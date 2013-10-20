@@ -1,0 +1,31 @@
+{
+    "language": "de",
+    "name": "Zink-Oxid Brennstoffzelle",
+    "organisation": "Open Source Ecology Germany",
+    "developers": [
+        "Oliver Schlüter",
+    ],
+    "version": "0.2",
+    "version date": "09.06.2013",
+    "status": "prototyping",
+    "licence": " Creative Commons Attribution-ShareAlike 3.0",
+    "keywords": "Zink, Sauerstoff, Brennstoffzelle, Batterie, Akku, Akkumulator, Speicher, Elektrizität",
+    "summary": "Bei diesem Projekt geht es um die Entwicklung einer möglichst langfristigen Speicherlösung für elektrische Energie. Es besteht aus jeweils einer Einheit zur Speicherung sowie zur Gewinnung von Strom",
+    "description": "Das Projekt besteht aus zwei Elementen:\
+1. Zink - Luft Brennstoffzelle: Die Zelle besteht aus einer Kohlenstoff-Kathode, welche den Luftsauerstoff weiterleitet und einer Zink-Anode. Als Elektrolyt wird in Wasser gelöstes Kaliumhydroxid (Kalilauge) verwendet. Das Zink wird hier quasi als Treibstoff kalt 'verbrannt', d.h. oxidiert und es entsteht Zinkoxid (ZnO). Das theoretische Maximum der ZAC-Energiedichte liegt bei rund 1,3KWh/Kg.\
+2. ZnO-Recycler: Um den verbrauchten Treibstoff wieder zu regenerieren bzw. wiederaufzuladen muss das Zinkoxid unter Aufwendung von Energie wieder zu Zink reduziert werden. Dies kann auf verschiedenem Wege geschehen, z.B. bei hohen Temperaturen (>1200°C) unter Kohlenstoffzufuhr, oder einfacher, in einem galvanischen Prozess, was der hier angestrebte Lösungsansatz wäre.\
+Das ZAC+ bietet insbesondere im Vergleich mit allen anderen Arten von Akku-Systemen (Blei-Säure, Lithium, usw) eine Vielzahl von Vorteilen, u.a. folgende:\
+*Unbegrenzte Zyklenanzahl\
+*Unbegrenzte Lagerfähigkeit\
+*Unempfindlich gegen Tiefentladung und Überladung\
+*Simple und überall und günstig erhältliche Komponenten\
+*Komponenten sind absolut unschädlich für die Umwelt\
+*Mit Abstand die höchste Energiedichte",
+    "project_link": "http://wiki.opensourceecology.de/Zn/O-Brennstoffzelle",
+    "image_link": [
+        "http://wiki.opensourceecology.de/images/5/5e/Kattest1.jpg",
+        "http://wiki.opensourceecology.de/images/5/55/Zelle.jpg",
+    ],
+    "documentation_link": "http://wiki.opensourceecology.de/Zn/O-Brennstoffzelle",
+    "email": "case06@web.de"
+}
