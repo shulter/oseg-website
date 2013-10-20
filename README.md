@@ -8,6 +8,7 @@ Website for http://OpenSourceEcology.de
 To start with the development install the development tools, initialize the project environment and run the project scripts.
 
 ## Install Development Tools
+Required tools are: Nodejs, Grunt and Bower.
 
 * Install [Nodejs](http://nodejs.org/) - a platform built on Chrome's JavaScript runtime.
    * See [how to install Nodejs](http://howtonode.org/how-to-install-nodejs)
