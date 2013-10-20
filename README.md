@@ -38,5 +38,17 @@ The CSS files should not be written by hand. They are automatically converted fr
 
 ## Deploy
 
-* Run ```grunt build``` to build the files in the ```dist``` folder.
+### Create a separate local gh-branch
+Do this only once!
+* Create a gh-branch containing only the ```dist``` folder:
+    * cd ..
+    * mkdir gh-pages
+    * cd gh-pages
+    * git clone git@github.com:ngeorgiev/oseg-website.git
+    * cd oseg-website/
+    * git checkout -b gh-pages origin/gh-pages
 
+### Build and deploy
+* Run ```grunt build``` to build the files in the ```dist``` folder.
+* Run the push script to copy the ```dist``` files into the gh-pages branch and push them to GitHub
+    * ```sh push-to-github-pages.sh```
