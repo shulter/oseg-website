@@ -5,13 +5,17 @@ Website for http://OpenSourceEcology.de
 
 # Development
 
-To start the development intall npm and grunt, initialize the project environment and run the project scripts.
+To start with the development install the development tools, initialize the project environment and run the project scripts.
 
-## Install npm and Grunt
+## Install Development Tools
 
-* Npm -
-* Grunt - used for Livereload, compiling SASS files and creating the distribution files.
+* Install [Nodejs](http://nodejs.org/) - a platform built on Chrome's JavaScript runtime.
+   * See [how to install Nodejs](http://howtonode.org/how-to-install-nodejs)
+* Install [Grunt]() - used for Livereload, compiling SASS files and creating the distribution files.
+    * ```npm install -g grunt-cli```
+    * ```npm install grunt --save-dev```
 * Bower - used to download client side libraries like Bootstrap, jQuery, etc.
+    * ```npm install -g bower```
 
 ## Initialize Project Environment
 
