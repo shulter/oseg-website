@@ -3,6 +3,9 @@ oseg-website
 
 Website for http://OpenSourceEcology.de
 
+# Live Demo
+http://ngeorgiev.github.io/oseg-website/
+
 # Development
 
 To start with the development install the development tools, initialize the project environment and run the project scripts.
