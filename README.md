@@ -28,6 +28,14 @@ Required tools are: Nodejs, Grunt and Bower.
 * grunt server
     * Starts the Grunt server that will livereload every change to the browser and compile the SASS files.
 
+
+## Programming
+Development is done only in the ```/app``` folder. The ```dist``` is used for deployment.
+
+### CSS
+The CSS files should not be written by hand. They are automatically converted from the SCSS files. SCSS is easy and you can [read here more about SCSS](http://sass-lang.com/guide).
+
+
 ## Deploy
 
 * Run ```grunt build``` to build the files in the ```dist``` folder.
