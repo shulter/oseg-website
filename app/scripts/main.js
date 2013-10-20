@@ -1,1 +1,1 @@
-console.log('\'Allo \'Allo!');
+console.log('Welcome to OSE Germany');

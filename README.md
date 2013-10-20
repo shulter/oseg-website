@@ -15,7 +15,7 @@ Required tools are: Nodejs, Grunt and Bower.
 * Install [Grunt]() - used for Livereload, compiling SASS files and creating the distribution files.
     * ```npm install -g grunt-cli```
     * ```npm install grunt --save-dev```
-* Bower - used to download client side libraries like Bootstrap, jQuery, etc.
+* Install [Bower](http://bower.io/) - front-end package manager. Used to download client side libraries like Bootstrap, jQuery, etc.
     * ```npm install -g bower```
 
 ## Initialize Project Environment
